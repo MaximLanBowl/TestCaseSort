@@ -1,0 +1,26 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "TestCase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaximLanBowl/TestCaseNode.git"
+  },
+  "keywords": [
+    "TestCase"
+  ],
+  "author": "Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximLanBowl/TestCaseNode/issues"
+  },
+  "homepage": "https://github.com/MaximLanBowl/TestCaseNode#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
